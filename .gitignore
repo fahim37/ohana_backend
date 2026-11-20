@@ -42,4 +42,7 @@ uploads/
 # Postman
 *.postman_collection.json
 *.postman_environment.json
-config.bat
+
+
+.env*
+!.env.example
